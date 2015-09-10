@@ -1,0 +1,14 @@
+{
+  "name": "dotenv-es6",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard B. Kaufman-Lopez <richardbkaufman@gmail.com> (http://richardkaufman.org)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^1.2.0"
+  }
+}
